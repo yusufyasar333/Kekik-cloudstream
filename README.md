@@ -6,7 +6,7 @@
 
 [![CloudStream Derleyici](https://img.shields.io/github/actions/workflow/status/keyiflerolsun/Kekik-cloudstream/Derleyici.yml?label=CloudStream%20Derleyici&logo=github)](https://github.com/keyiflerolsun/Kekik-cloudstream/actions/workflows/Derleyici.yml)
 
-_CloudStream için Türkçe yayın yapan sitelere ait eklentiler.._
+_CloudStream için Türkçe yayın yapan sitelere ait eklentiler._
 
 _Kullanabilmek için kendiniz derlemelisiniz.._
 
